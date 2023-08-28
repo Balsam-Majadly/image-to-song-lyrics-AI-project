@@ -1,6 +1,6 @@
 # Image to Song Lyrics AI Project
 
-The "Image to Song Lyrics AI Project" is a web application that uses Artificial Intelligence (AI) to generate personalized song lyrics from uploaded images. This creative project combines cutting-edge technologies, including image captioning, natural language generation, and audio synthesis, to provide a unique and engaging user experience.
+The "Image to Song Lyrics AI Project" is a web application that uses Artificial Intelligence (AI) to generate personalized song lyrics from uploaded images. This creative project combines cutting-edge technologies, including image captioning, natural language models, and audio synthesis, to provide a unique and engaging user experience.
 
 ## Project Overview
 
@@ -19,7 +19,8 @@ The generated song lyrics are further transformed into audio using text-to-speec
 ## Technologies Used
 
 - Flask: Web framework for handling requests and rendering templates.
-- OpenAI API: Powering image captioning and text generation.
+- OpenAI API: generate text lyrics that match the description of the image.
+- hugging face model: leverage the "Salesforce/blip-image-captioning-base" model for highly accurate image captioning.
 - gTTS (Google Text-to-Speech): Transforming generated lyrics into audio.
 - HTML: Styling and structuring the web interface.
 
