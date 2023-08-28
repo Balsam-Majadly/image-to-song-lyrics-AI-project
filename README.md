@@ -21,8 +21,7 @@ The generated song lyrics are further transformed into audio using text-to-speec
 - Flask: Web framework for handling requests and rendering templates.
 - OpenAI API: Powering image captioning and text generation.
 - gTTS (Google Text-to-Speech): Transforming generated lyrics into audio.
-- pygame: Facilitating audio playback functionality.
-- HTML, CSS: Styling and structuring the web interface.
+- HTML: Styling and structuring the web interface.
 
 ## Usage
 
@@ -61,17 +60,3 @@ The "Image to Song Lyrics AI Project" has exciting potential for growth:
 - Fine-tuning AI algorithms to enhance the quality of generated lyrics.
 - Collecting user feedback to drive improvements and updates.
 
-## License
-
-This project is licensed under the MIT License. Feel free to use and modify the code as needed.
-
-## Acknowledgements
-
-Special thanks to [OpenAI](https://openai.com) for their incredible API and the open-source community for their valuable contributions.
-
----
-
-Feel free to contribute to this project by creating pull requests or submitting issues if you encounter any problems.
-```
-
-Make sure to replace the placeholders with actual information specific to your project, and feel free to add more sections if needed.
