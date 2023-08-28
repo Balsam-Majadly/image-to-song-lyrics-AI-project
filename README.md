@@ -37,19 +37,13 @@ The generated song lyrics are further transformed into audio using text-to-speec
    cd image-to-song-lyrics-AI-project
    ```
 
-3. Install the required dependencies:
-
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-4. Run the application:
+3. Run the application:
 
    ```bash
    python app.py
    ```
 
-5. Open your web browser and visit http://127.0.0.1:5000 to access the application.
+4. Open your web browser and visit http://127.0.0.1:5000 to access the application.
 
 ## Future Enhancements
 
